@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/JoaoPedro1999/tcc-server
